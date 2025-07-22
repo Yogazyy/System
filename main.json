@@ -1,4 +1,8 @@
-{
-  username : Yogax
-  password: Yogax
-}
+[
+  {
+    "username": "admin",
+    "password": "admin123",
+    "role": "owner"
+  }
+]
+
